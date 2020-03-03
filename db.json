@@ -100,7 +100,7 @@
       }
     ]
   },
-  "polling-statuses" : {
+  "PollingStatuses" : {
     "data": [
       {
         "haName": "CITY OF LONDON",
