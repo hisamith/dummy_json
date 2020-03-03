@@ -99,5 +99,240 @@
         "sync_lastupdated_by": "GIS_AGENT_POINT"
       }
     ]
-  }
+  },
+  "polling-statuses" : {
+    "data": [
+        {
+            "haName": "CITY OF LONDON",
+            "haID": "TFL",
+            "haSwaOrgId": 5030,
+            "isETLEnabled": true,
+            "currentPollingTimestamp": "2020-02-13T12:25:01"
+        },
+        {
+            "haName": "LONDON BOROUGH OF BARKING AND DAGENHAM",
+            "haID": "BARKING_AND_DAGENHAM",
+            "haSwaOrgId": 5060,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF BARNET",
+            "haID": "BARNET",
+            "haSwaOrgId": 5090,
+            "isETLEnabled": true,
+            "currentPollingTimestamp": "2020-04-13T12:25:01"
+        },
+        {
+            "haName": "LONDON BOROUGH OF BEXLEY",
+            "haID": "BEXLEY",
+            "haSwaOrgId": 5120,
+            "isETLEnabled": true,
+            "currentPollingTimestamp": "2020-01-14T12:25:01"
+        },
+        {
+            "haName": "LONDON BOROUGH OF BRENT",
+            "haID": "BRENT",
+            "haSwaOrgId": 5150,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF BROMLEY",
+            "haID": "BROMLEY",
+            "haSwaOrgId": 5180,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF CAMDEN",
+            "haID": "CAMDEN",
+            "haSwaOrgId": 5210,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF CROYDON",
+            "haID": "CROYDON",
+            "haSwaOrgId": 5240,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF EALING",
+            "haID": "EALING",
+            "haSwaOrgId": 5270,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF ENFIELD",
+            "haID": "ENFIELD",
+            "haSwaOrgId": 5300,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "ROYAL BOROUGH OF GREENWICH",
+            "haID": "GREENWICH",
+            "haSwaOrgId": 5330,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF HACKNEY",
+            "haID": "HACKNEY",
+            "haSwaOrgId": 5360,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF HAMMERSMITH AND FULHAM",
+            "haID": "HAMMERSMITH_AND_FULHAM",
+            "haSwaOrgId": 5390,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF HARINGEY",
+            "haID": "HARINGEY",
+            "haSwaOrgId": 5420,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF HARROW",
+            "haID": "HARROW",
+            "haSwaOrgId": 5450,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF HAVERING",
+            "haID": "HAVERING",
+            "haSwaOrgId": 5480,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF HILLINGDON",
+            "haID": "HILLINGDON",
+            "haSwaOrgId": 5510,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF HOUNSLOW",
+            "haID": "HOUNSLOW",
+            "haSwaOrgId": 5540,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF ISLINGTON",
+            "haID": "ISLINGTON",
+            "haSwaOrgId": 5570,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "ROYAL BOROUGH OF KENSINGTON AND CHELSEA",
+            "haID": "KENSINGTON_AND_CHELSEA",
+            "haSwaOrgId": 5600,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "ROYAL BOROUGH OF KINGSTON UPON THAMES",
+            "haID": "KINGSTON",
+            "haSwaOrgId": 5630,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF LAMBETH",
+            "haID": "LAMBETH",
+            "haSwaOrgId": 5660,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF LEWISHAM",
+            "haID": "LEWISHAM",
+            "haSwaOrgId": 5690,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF MERTON",
+            "haID": "MERTON",
+            "haSwaOrgId": 5720,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF NEWHAM",
+            "haID": "NEWHAM",
+            "haSwaOrgId": 5750,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF REDBRIDGE",
+            "haID": "REDBRIDGE",
+            "haSwaOrgId": 5780,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF RICHMOND UPON THAMES",
+            "haID": "RICHMOND",
+            "haSwaOrgId": 5810,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF SOUTHWARK",
+            "haID": "SOUTHWARK",
+            "haSwaOrgId": 5840,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF SUTTON",
+            "haID": "SUTTON",
+            "haSwaOrgId": 5870,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF TOWER HAMLETS",
+            "haID": "TOWER_HAMLETS",
+            "haSwaOrgId": 5900,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF WALTHAM FOREST",
+            "haID": "WALTHAM_FOREST",
+            "haSwaOrgId": 5930,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "LONDON BOROUGH OF WANDSWORTH",
+            "haID": "WANDSWORTH",
+            "haSwaOrgId": 5960,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        },
+        {
+            "haName": "WESTMINSTER CITY COUNCIL",
+            "haID": "WESTMINSTER",
+            "haSwaOrgId": 5990,
+            "isETLEnabled": false,
+            "currentPollingTimestamp": null
+        }
+    ]
+}
 }
